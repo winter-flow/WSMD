@@ -1,5 +1,4 @@
 # Weakly-Supervised Mirror Detection via Scribble Annotations (AAAI24)
-> Authors: Mingfeng Zha, Yunqiang Pei, and Guoqing Wang
 [[Paper Link]](https://ojs.aaai.org/index.php/AAAI/article/view/28521/29016)
 
 ![alt text](Image/pipeline.png)
